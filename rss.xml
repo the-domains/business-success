@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ideas and Articles to help you achieve business success]]></title>
+        <description><![CDATA[Ideas and Articles to help you achieve business success]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 18:57:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[12 Founders on the Business Advice They Are Most Thankful For]]></title>
+            <description><![CDATA[<article><h1>12 Founders on the Business Advice They Are Most Thankful For</h1><p>Learning from other people's experiences (and mistakes) is great way to accelerate your business success... </p><img src="https://assets.entrepreneur.com/content/3x2/822/20151124205141-3-danielle.jpeg"></article>]]></description>
+            <link>http://www.entrepreneur.com/slideshow/253251</link>
+            <guid isPermaLink="false">610b77c4-0697-4c1f-b924-32e959311345</guid>
+            <pubDate>Fri, 27 Nov 2015 18:57:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
