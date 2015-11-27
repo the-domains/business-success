@@ -1,7 +1,7 @@
 name: Business Success
 favicon: null
-layout_spectrum: 0.5383155082818121
-typography_spectrum: 0.0748103957157582
+layout_spectrum: 0.37316
+typography_spectrum: 0.73886
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.038492337334901094
-  lightness: 0.4478602858725935
-  saturation: 0.031678115483373404
-  rhythmicContrast: 0.754116281401366
+    - '#171516'
+    - '#ffffff'
+    - '#b8b8b8'
+    - '#8a8a8a'
+    - '#5c5c5c'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
