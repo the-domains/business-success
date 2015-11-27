@@ -1,7 +1,7 @@
 name: Business Success
 favicon: null
-layout_spectrum: 0.37316
-typography_spectrum: 0.73886
+layout_spectrum: 1
+typography_spectrum: 0.75453
 title: Ideas and Articles to help you achieve business success
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b8b8b8'
     - '#8a8a8a'
     - '#5c5c5c'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
