@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ideas and Articles to help you achieve business success]]></title>
         <description><![CDATA[Ideas and Articles to help you achieve business success]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/business-success/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 18:06:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 Nov 2015 18:15:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/business-success/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Business Success...a place for ideas and articles to help you achieve business success...enjoy!</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/business-success/welcome/index.html</link>
             <guid isPermaLink="false">a73b9dab-9ac4-427e-a0a1-ebeecabdbfa0</guid>
             <pubDate>Fri, 27 Nov 2015 18:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Outsourced Finance Director service from Pavilion Accountancy]]></title>
+            <description><![CDATA[<article><h1>Outsourced Finance Director service from Pavilion Accountancy</h1><p>Pavilion Accountancy in Ramsey, Cambridgeshire can offer an outsourced Finance Director at a fraction of the cost of employing in-house</p><img src="http://www.pavilionaccountancy.co.uk/_webedit/cached-images/62-0-0-0-9436-10000-767"></article>]]></description>
+            <link>http://www.pavilionaccountancy.co.uk/services/the-finance-director/</link>
+            <guid isPermaLink="false">fda11668-354a-45b8-b62e-f509aa3d2ad6</guid>
+            <pubDate>Fri, 27 Nov 2015 18:15:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
